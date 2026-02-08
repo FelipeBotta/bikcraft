@@ -1,5 +1,8 @@
 @import url(global/global.css);
+@import url(utilidadades/tipografia.css);
+@import url(utilidadades/cores.css);
 @import url(global/header.css);
+
 /* Utilidades */
 @import url(utilidadades/componentes.css);
 
